@@ -3,12 +3,22 @@ entries:
   vindhya-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-01-09T15:13:27.1105448+05:30"
+    created: "2023-01-09T16:16:24.0622922+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 31385ddf121c2b9c92500d1096cf2dca5330485237954e465a57638e5a455490
+    name: vindhya-chart
+    type: application
+    urls:
+    - vindhya-chart-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-01-09T16:16:24.0629548+05:30"
     description: A Helm chart for Kubernetes
     digest: 4cb41a701bf65915e1a2173389c463124f6798b3bfcd6ceaac35d9ad23d7ac5f
     name: vindhya-chart
     type: application
     urls:
-    - vindhya-chart-0.1.0.tgz
+    - Archive/vindhya-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2023-01-09T15:13:27.1093211+05:30"
+generated: "2023-01-09T16:16:24.0616322+05:30"
